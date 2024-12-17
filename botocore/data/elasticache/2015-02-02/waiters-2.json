@@ -129,7 +129,7 @@
                     "state":"failure"
                 },
                 {
-                    "expected":"ReplicationGroupNotFoundFault",
+                    "expected":"ServerlessCacheNotFoundFault",
                     "matcher":"error",
                     "state":"success"
                 }
